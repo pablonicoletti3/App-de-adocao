@@ -21,9 +21,19 @@ body
 button
 {
     width: 50%;
-  background-color: rgb(104, 197, 11);
+ display: block;
+ text-align: center;
   font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
 
+
+}
+p{
+    text-align: left;
+}
+label{
+    display: block;
+    font-size: 20px;
 }
 h1{
     color: rgb(116, 219, 12);
